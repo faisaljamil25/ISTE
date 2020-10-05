@@ -66,3 +66,12 @@
 .link:hover {
   color: #ff003f;
 }
+
+/* Teams.html */
+
+.avatar-img {
+  width: 10rem;
+}
+.social-icon.team-icons .fa {
+  color: black;
+}
